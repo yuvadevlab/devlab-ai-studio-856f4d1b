@@ -28,3 +28,6 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project architecture
+- Keep the DevLab console's shared navigation, local demo workspace state, and create/edit drawers in the root shell so all routes stay consistent.

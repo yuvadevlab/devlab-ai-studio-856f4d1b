@@ -1,0 +1,3 @@
+- [x] Build shared DevLab console shell, semantic dark design tokens, and demo workspace state.
+- [ ] Add Overview, Providers, Apps, Profiles, Telemetry, and Playground screens with route metadata.
+- [ ] Verify routes, drawer and playground interactions, responsive presentation, and preview diagnostics.
